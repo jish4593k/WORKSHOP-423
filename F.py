@@ -1,4 +1,4 @@
-import fitz  # PyMuPDF
+import fitz  
 import torch
 import tkinter as tk
 from tkinter import scrolledtext, ttk
